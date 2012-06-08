@@ -1,8 +1,8 @@
 /*
  * WeerData.cpp
  *
- *  Created on: 11 mrt. 2012
- *      Author: acer
+ *  Created on: 6 juni 2012
+ *      Author: Ivo Lek
  */
 
 #include "WeerData.hpp"
